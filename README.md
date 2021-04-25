@@ -13,3 +13,7 @@ npm run test
 # para rodar os testes de uma pasta específica, nesse caso: matchers
 npm run test matchers
 ```
+
+## Testes
+
+1. testar script js que é importado no HTML, fazendo uso de jQuery ([em dom](main/dom)) usando [Rewire](https://github.com/jhnns/rewire).
